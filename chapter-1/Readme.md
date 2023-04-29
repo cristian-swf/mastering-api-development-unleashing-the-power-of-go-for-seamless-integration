@@ -39,3 +39,6 @@
 
 
 By the end of this chapter, you will have a solid understanding of the Go programming language, its strengths in API development, and the necessary tools and environment setup to start building your own Go APIs.
+
+
+[<< Previous chapter](../Readme.md) | [Back to book summary](../Readme.md) | [Next chapter >>](../chapter-2/Readme.md)
