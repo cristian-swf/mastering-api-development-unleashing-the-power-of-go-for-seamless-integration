@@ -16,7 +16,7 @@ In this chapter, we will discuss the principles of designing API architectures, 
 - Advantages over REST
 - Designing a schema
 
-2.3 API Versioning: Explore different strategies for versioning your APIs, such as URI versioning, query parameter versioning, and custom header versioning.
+[**2.3 API Versioning**](2.3-api-versioning-explore-different-strategies-for-versioning-your-apis.md): Explore different strategies for versioning your APIs, such as:
 
 - URI versioning
 - Query parameter versioning
