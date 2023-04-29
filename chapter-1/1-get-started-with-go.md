@@ -3,7 +3,7 @@
 
 **Get started with Go**: Understand the fundamentals of the Go programming language, its advantages for API development, and how to set up your development environment
 
-[**1.1 Introduction to Go**](1.10introduction-to-go.md)
+[**1.1 Introduction to Go**](1.1-introduction-to-go.md)
 - The history and evolution of Go
 - The design philosophy and key features of Go
 
