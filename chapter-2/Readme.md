@@ -5,7 +5,7 @@
 
 In this chapter, we will discuss the principles of designing API architectures, focusing on RESTful and GraphQL APIs. We will also cover best practices for versioning, error handling, and pagination. Below are the main topics discussed in this chapter:
 
-[**2.1 RESTful API Design Principles**](2.1-restful-api-design-principles.md): Learn the fundamentals of RESTful API design, including resources, URIs, and standard HTTP methods.
+[**2.1 RESTful API Design Principles**](2.1-restful-api-design-principles.md): Learn the fundamentals of RESTful API design, including:
 
 - Resources
 - URIs
@@ -22,13 +22,13 @@ In this chapter, we will discuss the principles of designing API architectures, 
 - Query parameter versioning
 - Custom header versioning
 
-2.4 Error Handling in APIs: Learn best practices for handling errors in your APIs, including:
+[**2.4 Error Handling in APIs**](2.4-error-handling-in-apis.md): Learn best practices for handling errors in your APIs, including:
 
 - Standard HTTP status codes
 - Custom error messages
 - Error response structures
 
-2.5 Pagination: Discover how to implement pagination in your APIs, using techniques like offset-based pagination, cursor-based pagination, and keyset pagination.
+2.5 Pagination: Discover how to implement pagination in your APIs, using techniques like:
 
 - Offset-based pagination
 - Cursor-based pagination
