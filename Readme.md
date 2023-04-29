@@ -1,7 +1,7 @@
 Embark on a comprehensive journey to explore the world of API development with Go, the fast, efficient, and reliable programming language. "Mastering API Development: Unleashing the Power of Go for Seamless Integration" is a hands-on guide that will equip you with the essential tools and techniques needed to build scalable, maintainable, and high-performing APIs.
 
 
-**Please note that this book is a work in progress.**
+**Please note that this book is a work in progress. A series of YouTube videos will also be available based in this book.**
 
 
 In this book, you will:

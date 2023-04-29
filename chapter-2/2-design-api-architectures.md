@@ -22,7 +22,7 @@ In this chapter, we will discuss the principles of designing API architectures, 
 - Query parameter versioning
 - Custom header versioning
 
-2.4 Error Handling in APIs: Learn best practices for handling errors in your APIs, including standard HTTP status codes, custom error messages, and error response structures.
+2.4 Error Handling in APIs: Learn best practices for handling errors in your APIs, including:
 
 - Standard HTTP status codes
 - Custom error messages
