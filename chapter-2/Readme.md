@@ -28,7 +28,7 @@ In this chapter, we will discuss the principles of designing API architectures, 
 - Custom error messages
 - Error response structures
 
-2.5 Pagination: Discover how to implement pagination in your APIs, using techniques like:
+[**2.5 Pagination**](2.5-pagination.md): Discover how to implement pagination in your APIs, using techniques like:
 
 - Offset-based pagination
 - Cursor-based pagination
