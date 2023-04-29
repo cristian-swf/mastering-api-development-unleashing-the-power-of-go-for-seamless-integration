@@ -6,9 +6,9 @@ Embark on a comprehensive journey to explore the world of API development with G
 
 In this book, you will:
 
-- [**Get started with Go**](chapter-1/1-get-started-with-go.md): Understand the fundamentals of the Go programming language, its advantages for API development, and how to set up your development environment.
+- [**Get started with Go**](chapter-1/Readme.md): Understand the fundamentals of the Go programming language, its advantages for API development, and how to set up your development environment.
 
-- [**Design API architectures**](chapter-2/2-design-api-architectures.md): Discover the principles of designing RESTful and GraphQL APIs, while learning about best practices for versioning, error handling, and pagination.
+- [**Design API architectures**](chapter-2/Readme.md): Discover the principles of designing RESTful and GraphQL APIs, while learning about best practices for versioning, error handling, and pagination.
 
 - **Implement authentication and authorization**: Secure your APIs using JWT, OAuth2, and other modern security techniques to protect your data and ensure proper access control.
 
