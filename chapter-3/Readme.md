@@ -14,7 +14,7 @@ In this chapter, we will discuss various topics related to securing your APIs us
 - Understanding authentication and its role in API security
 - Common authentication methods: Basic, API keys, JWT, and OAuth2
 
-**3.3 JSON Web Tokens (JWT)**
+[**3.3 JSON Web Tokens (JWT)**](3.3-json-web-tokens-jwt.md)
 - Overview of JWT and its use cases
 - Structure and components of a JWT
 - Signing and verifying JWTs for authentication
