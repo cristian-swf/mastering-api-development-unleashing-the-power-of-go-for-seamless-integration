@@ -31,10 +31,10 @@ In this chapter, we will discuss various topics related to securing your APIs us
 - Defining roles and permissions for your API
 - Implementing RBAC in your API using middleware or other techniques
 
-**3.6 API Security Best Practices**
+[**3.6 API Security Best Practices**](3.6-api-security-best-practices.md)
 - Validating and sanitizing user input
 - Protecting against common attacks, such as SQL injection and XSS
 - Using HTTPS and secure communication
 - Monitoring and logging API activity for security purposes
 
-[<< Previous chapter](../chapter-2/Readme.md) | [Back to book summary](../Readme.md) | [Next chapter >>](../chapter-3/Readme.md)
+[<< Previous chapter](../chapter-2/Readme.md) | [Back to book summary](../Readme.md) | [Next chapter >>](../chapter-4/Readme.md)
