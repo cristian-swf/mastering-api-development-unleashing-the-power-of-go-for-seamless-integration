@@ -20,13 +20,13 @@ In this chapter, we will discuss various topics related to securing your APIs us
 - Signing and verifying JWTs for authentication
 - JWT best practices and security considerations
 
-**3.4 OAuth2 for API Authorization**
+[**3.4 OAuth2 for API Authorization**](3.4-oauth2-for-api-authorization.md)
 - Introduction to OAuth2 and its role in API security
 - OAuth2 grant types: Authorization Code, Implicit, Resource Owner Password Credentials, and Client Credentials
 - Implementing OAuth2 with third-party providers
 - Best practices for using OAuth2 in your API
 
-**3.5 Role-Based Access Control (RBAC)**
+[**3.5 Role-Based Access Control (RBAC)**](3.5-role-based-access-control-rbac.md)
 - Understanding RBAC and its role in API authorization
 - Defining roles and permissions for your API
 - Implementing RBAC in your API using middleware or other techniques
