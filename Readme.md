@@ -10,7 +10,7 @@ In this book, you will:
 
 - [**Design API architectures**](chapter-2/Readme.md): Discover the principles of designing RESTful and GraphQL APIs, while learning about best practices for versioning, error handling, and pagination.
 
-- **Implement authentication and authorization**: Secure your APIs using JWT, OAuth2, and other modern security techniques to protect your data and ensure proper access control.
+- [**Implement authentication and authorization**](chapter-3/Readme.md): Secure your APIs using JWT, OAuth2, and other modern security techniques to protect your data and ensure proper access control.
 
 - **Build and test APIs**: Dive deep into Go's powerful tools and libraries, such as Gorilla Mux, Gin, and Echo, to create efficient, testable, and robust APIs.
 
