@@ -5,12 +5,12 @@
 
 In this chapter, we will discuss various topics related to securing your APIs using modern authentication and authorization techniques. These topics are essential to protect your data and ensure proper access control.
 
-**3.1 Introduction to API Security**
+[**3.1 Introduction to API Security**](3.1-introduction-to-api-security.md)
 - Importance of securing your API
 - Common security threats and vulnerabilities
 - Defense in depth: multiple layers of security
 
-**3.2 Authentication in APIs**
+[**3.2 Authentication in APIs**](3.2-authentication-in-apis.md)
 - Understanding authentication and its role in API security
 - Common authentication methods: Basic, API keys, JWT, and OAuth2
 
