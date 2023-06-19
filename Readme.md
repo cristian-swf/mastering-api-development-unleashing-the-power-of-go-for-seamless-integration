@@ -12,7 +12,7 @@ In this book, you will:
 
 - [**Implement authentication and authorization**](chapter-3/Readme.md): Secure your APIs using JWT, OAuth2, and other modern security techniques to protect your data and ensure proper access control.
 
-- **Build and test APIs**: Dive deep into Go's powerful tools and libraries, such as Gorilla Mux, Gin, and Echo, to create efficient, testable, and robust APIs.
+- [**Build and test APIs**](chapter-4/Readme.md): Dive deep into Go's powerful tools and libraries, such as Gorilla Mux, Gin, and Echo, to create efficient, testable, and robust APIs.
 
 - **Optimize performance**: Explore the best practices for optimizing API response times, handling concurrency, and managing resources to deliver a seamless user experience.
 
